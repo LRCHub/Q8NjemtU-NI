@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Alche Miss Katrina",
+  "base_artist": "アンジュ・カトリーナ",
+  "createdAt": "2026-02-26T01:42:39.655007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alche Miss Katrina",
+      "artist": "Ange Katrina",
+      "has_synced": true,
+      "path": "select/01_Alche_Miss_Katrina_Ange_Katrina.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Alche Miss Katrina",
+      "artist": "アンジュ・カトリーナ",
+      "has_synced": false,
+      "path": "select/pl_01_Alche_Miss_Katrina_アンジュ・カトリーナ.txt"
+    }
+  ]
+}
